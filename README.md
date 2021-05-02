@@ -1,14 +1,14 @@
 # 🎓 Ank-Bhavishyavakta [Marks Predictor]
 
 ## 📝 Table of Contents
-  * [⚡ Introduction](#⚡-introduction)
-  * [🚀 Live Demo and Screenshot](#🚀-live-demo-and-screenshot)
-  * [🔍 Overview of the Dataset](#🔍-overview-of-the-dataset)
-  * [🗺️ Data Visualization](#🗺️-data-visualization)
-  * [📈 Results](#📈-results)
-  * [✅ Accuracy Score](#✅-accuracy-score)
-  * [🛠️ Technologies Used](#🛠️-technologies-used)
-  * [🔗 References](#🔗-references)
+  * [⚡ Introduction](#-introduction)
+  * [🚀 Live Demo and Screenshot](#-live-demo-and-screenshot)
+  * [🔍 Overview of the Dataset](#-overview-of-the-dataset)
+  * [🗺️ Data Visualization](#-data-visualization)
+  * [📈 Results](#-results)
+  * [✅ Accuracy Score](#-accuracy-score)
+  * [🛠️ Technologies Used](#%EF%B8%8F-technologies-used)
+  * [🔗 References](#-references)
   
 ## ⚡ Introduction
 Student Marks Prediction API created with the help of flask, This system aims to predict student's marks using linear regression. The idea behind this analysis is to predict the marks of students by their studying hours. <br/>
