@@ -4,7 +4,7 @@
   * [⚡ Introduction](#-introduction)
   * [🚀 Live Demo and Screenshot](#-live-demo-and-screenshot)
   * [🔍 Overview of the Dataset](#-overview-of-the-dataset)
-  * [🗺️ Data Visualization](#-data-visualization)
+  * [🗺️ Data Visualization](#%EF%B8%8F-data-visualization)
   * [📈 Results](#-results)
   * [✅ Accuracy Score](#-accuracy-score)
   * [🛠️ Technologies Used](#%EF%B8%8F-technologies-used)
