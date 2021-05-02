@@ -1,5 +1,10 @@
 # 🎓 Ank-Bhavishyavakta [Marks Predictor]
 
+<!-- Banner -->
+<div class="container-fluid">
+  <img class="mx-auto" src="https://raw.githubusercontent.com/TheDudeThatCode/Ank-Bhavishyavakta/6185b65f3ee4034f9f9f3962349d4616c440e689/static/Images/banner.svg">
+</div>
+
 ## 📝 Table of Contents
   * [⚡ Introduction](#-introduction)
   * [🚀 Live Demo and Screenshot](#-live-demo-and-screenshot)
